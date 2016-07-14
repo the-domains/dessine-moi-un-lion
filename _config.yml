@@ -1,0 +1,14 @@
+layout_spectrum: 0.6925388
+color:
+  saturation: 0.5739431
+  lightness: 0.8097172
+  brandStrength: 0.3745068
+  brandColors:
+    - '#F3C938'
+    - '#E87E00'
+    - '#FFFFFF'
+    - '#364B4C'
+    - '#000000'
+  rhythmicContrast: 0.1721099
+typography_spectrum: 0.2139764
+name: Dessine-moi un lion
